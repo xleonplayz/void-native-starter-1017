@@ -100,4 +100,8 @@ const siteMetadata = {
   },
 }
 
+siteMetadata.analytics = {}
+siteMetadata.newsletter = {}
+siteMetadata.comments = undefined
+
 module.exports = siteMetadata
